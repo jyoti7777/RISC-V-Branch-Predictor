@@ -23,7 +23,7 @@ Branch prediction is crucial in modern computer architectures to enhance perform
 
 ### Analysis
 
-#### Factorial Code Prediction Analysis:
+#### Factorial Code Prediction Analysis (Success Rate):
 - **Always Taken Predictor:** 65.506%
 - **Always Not Taken Predictor:** 34.494%
 - **1-Bit Predictor:** 87.7293%
